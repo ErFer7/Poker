@@ -23,9 +23,9 @@ class PhoneList():
         self.phone_list = {}
 
         # Caso o arquivo exista ele é lido
-        if os.path.exists("Phone list.txt"):
+        if os.path.exists("Phone list.json"):
 
-            with open("Phone list.txt", 'r') as phone_list:
+            with open("Phone list.json", 'r') as phone_list:
 
                 phone_list_json = phone_list.read()
 
@@ -37,7 +37,7 @@ class PhoneList():
         Salva os dados
         '''
 
-        with open("Phone list.txt", 'w') as phone_list:
+        with open("Phone list.json", 'w') as phone_list:
 
             phone_list_json = json.dumps(self.phone_list, indent = 4)
             phone_list.write(phone_list_json)
