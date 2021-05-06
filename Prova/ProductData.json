@@ -1,0 +1,709 @@
+{
+    "Produto 0": [
+        "Tipo 0",
+        "Descri\u00e7\u00e3o 0",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 1": [
+        "Tipo 1",
+        "Descri\u00e7\u00e3o 1",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 2": [
+        "Tipo 2",
+        "Descri\u00e7\u00e3o 2",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 3": [
+        "Tipo 3",
+        "Descri\u00e7\u00e3o 3",
+        2,
+        10.0,
+        false
+    ],
+    "Produto 4": [
+        "Tipo 4",
+        "Descri\u00e7\u00e3o 4",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 5": [
+        "Tipo 5",
+        "Descri\u00e7\u00e3o 5",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 6": [
+        "Tipo 6",
+        "Descri\u00e7\u00e3o 6",
+        2,
+        10.0,
+        false
+    ],
+    "Produto 7": [
+        "Tipo 7",
+        "Descri\u00e7\u00e3o 7",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 8": [
+        "Tipo 8",
+        "Descri\u00e7\u00e3o 8",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 9": [
+        "Tipo 9",
+        "Descri\u00e7\u00e3o 9",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 10": [
+        "Tipo 10",
+        "Descri\u00e7\u00e3o 10",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 11": [
+        "Tipo 11",
+        "Descri\u00e7\u00e3o 11",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 12": [
+        "Tipo 12",
+        "Descri\u00e7\u00e3o 12",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 13": [
+        "Tipo 13",
+        "Descri\u00e7\u00e3o 13",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 14": [
+        "Tipo 14",
+        "Descri\u00e7\u00e3o 14",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 15": [
+        "Tipo 15",
+        "Descri\u00e7\u00e3o 15",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 16": [
+        "Tipo 16",
+        "Descri\u00e7\u00e3o 16",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 17": [
+        "Tipo 17",
+        "Descri\u00e7\u00e3o 17",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 18": [
+        "Tipo 18",
+        "Descri\u00e7\u00e3o 18",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 19": [
+        "Tipo 19",
+        "Descri\u00e7\u00e3o 19",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 20": [
+        "Tipo 20",
+        "Descri\u00e7\u00e3o 20",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 21": [
+        "Tipo 21",
+        "Descri\u00e7\u00e3o 21",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 22": [
+        "Tipo 22",
+        "Descri\u00e7\u00e3o 22",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 23": [
+        "Tipo 23",
+        "Descri\u00e7\u00e3o 23",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 24": [
+        "Tipo 24",
+        "Descri\u00e7\u00e3o 24",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 25": [
+        "Tipo 25",
+        "Descri\u00e7\u00e3o 25",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 26": [
+        "Tipo 26",
+        "Descri\u00e7\u00e3o 26",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 27": [
+        "Tipo 27",
+        "Descri\u00e7\u00e3o 27",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 28": [
+        "Tipo 28",
+        "Descri\u00e7\u00e3o 28",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 29": [
+        "Tipo 29",
+        "Descri\u00e7\u00e3o 29",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 30": [
+        "Tipo 30",
+        "Descri\u00e7\u00e3o 30",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 31": [
+        "Tipo 31",
+        "Descri\u00e7\u00e3o 31",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 32": [
+        "Tipo 32",
+        "Descri\u00e7\u00e3o 32",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 33": [
+        "Tipo 33",
+        "Descri\u00e7\u00e3o 33",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 34": [
+        "Tipo 34",
+        "Descri\u00e7\u00e3o 34",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 35": [
+        "Tipo 35",
+        "Descri\u00e7\u00e3o 35",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 36": [
+        "Tipo 36",
+        "Descri\u00e7\u00e3o 36",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 37": [
+        "Tipo 37",
+        "Descri\u00e7\u00e3o 37",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 38": [
+        "Tipo 38",
+        "Descri\u00e7\u00e3o 38",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 39": [
+        "Tipo 39",
+        "Descri\u00e7\u00e3o 39",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 40": [
+        "Tipo 40",
+        "Descri\u00e7\u00e3o 40",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 41": [
+        "Tipo 41",
+        "Descri\u00e7\u00e3o 41",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 42": [
+        "Tipo 42",
+        "Descri\u00e7\u00e3o 42",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 43": [
+        "Tipo 43",
+        "Descri\u00e7\u00e3o 43",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 44": [
+        "Tipo 44",
+        "Descri\u00e7\u00e3o 44",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 45": [
+        "Tipo 45",
+        "Descri\u00e7\u00e3o 45",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 46": [
+        "Tipo 46",
+        "Descri\u00e7\u00e3o 46",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 47": [
+        "Tipo 47",
+        "Descri\u00e7\u00e3o 47",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 48": [
+        "Tipo 48",
+        "Descri\u00e7\u00e3o 48",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 49": [
+        "Tipo 49",
+        "Descri\u00e7\u00e3o 49",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 50": [
+        "Tipo 50",
+        "Descri\u00e7\u00e3o 50",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 51": [
+        "Tipo 51",
+        "Descri\u00e7\u00e3o 51",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 52": [
+        "Tipo 52",
+        "Descri\u00e7\u00e3o 52",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 53": [
+        "Tipo 53",
+        "Descri\u00e7\u00e3o 53",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 54": [
+        "Tipo 54",
+        "Descri\u00e7\u00e3o 54",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 55": [
+        "Tipo 55",
+        "Descri\u00e7\u00e3o 55",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 56": [
+        "Tipo 56",
+        "Descri\u00e7\u00e3o 56",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 57": [
+        "Tipo 57",
+        "Descri\u00e7\u00e3o 57",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 58": [
+        "Tipo 58",
+        "Descri\u00e7\u00e3o 58",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 59": [
+        "Tipo 59",
+        "Descri\u00e7\u00e3o 59",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 60": [
+        "Tipo 60",
+        "Descri\u00e7\u00e3o 60",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 61": [
+        "Tipo 61",
+        "Descri\u00e7\u00e3o 61",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 62": [
+        "Tipo 62",
+        "Descri\u00e7\u00e3o 62",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 63": [
+        "Tipo 63",
+        "Descri\u00e7\u00e3o 63",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 64": [
+        "Tipo 64",
+        "Descri\u00e7\u00e3o 64",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 65": [
+        "Tipo 65",
+        "Descri\u00e7\u00e3o 65",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 66": [
+        "Tipo 66",
+        "Descri\u00e7\u00e3o 66",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 67": [
+        "Tipo 67",
+        "Descri\u00e7\u00e3o 67",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 68": [
+        "Tipo 68",
+        "Descri\u00e7\u00e3o 68",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 69": [
+        "Tipo 69",
+        "Descri\u00e7\u00e3o 69",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 70": [
+        "Tipo 70",
+        "Descri\u00e7\u00e3o 70",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 71": [
+        "Tipo 71",
+        "Descri\u00e7\u00e3o 71",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 72": [
+        "Tipo 72",
+        "Descri\u00e7\u00e3o 72",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 73": [
+        "Tipo 73",
+        "Descri\u00e7\u00e3o 73",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 74": [
+        "Tipo 74",
+        "Descri\u00e7\u00e3o 74",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 75": [
+        "Tipo 75",
+        "Descri\u00e7\u00e3o 75",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 76": [
+        "Tipo 76",
+        "Descri\u00e7\u00e3o 76",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 77": [
+        "Tipo 77",
+        "Descri\u00e7\u00e3o 77",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 78": [
+        "Tipo 78",
+        "Descri\u00e7\u00e3o 78",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 79": [
+        "Tipo 79",
+        "Descri\u00e7\u00e3o 79",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 80": [
+        "Tipo 80",
+        "Descri\u00e7\u00e3o 80",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 81": [
+        "Tipo 81",
+        "Descri\u00e7\u00e3o 81",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 82": [
+        "Tipo 82",
+        "Descri\u00e7\u00e3o 82",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 83": [
+        "Tipo 83",
+        "Descri\u00e7\u00e3o 83",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 84": [
+        "Tipo 84",
+        "Descri\u00e7\u00e3o 84",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 85": [
+        "Tipo 85",
+        "Descri\u00e7\u00e3o 85",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 86": [
+        "Tipo 86",
+        "Descri\u00e7\u00e3o 86",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 87": [
+        "Tipo 87",
+        "Descri\u00e7\u00e3o 87",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 88": [
+        "Tipo 88",
+        "Descri\u00e7\u00e3o 88",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 89": [
+        "Tipo 89",
+        "Descri\u00e7\u00e3o 89",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 90": [
+        "Tipo 90",
+        "Descri\u00e7\u00e3o 90",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 91": [
+        "Tipo 91",
+        "Descri\u00e7\u00e3o 91",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 92": [
+        "Tipo 92",
+        "Descri\u00e7\u00e3o 92",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 93": [
+        "Tipo 93",
+        "Descri\u00e7\u00e3o 93",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 94": [
+        "Tipo 94",
+        "Descri\u00e7\u00e3o 94",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 95": [
+        "Tipo 95",
+        "Descri\u00e7\u00e3o 95",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 96": [
+        "Tipo 96",
+        "Descri\u00e7\u00e3o 96",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 97": [
+        "Tipo 97",
+        "Descri\u00e7\u00e3o 97",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 98": [
+        "Tipo 98",
+        "Descri\u00e7\u00e3o 98",
+        3,
+        10.0,
+        false
+    ],
+    "Produto 99": [
+        "Tipo 99",
+        "Descri\u00e7\u00e3o 99",
+        3,
+        10.0,
+        false
+    ],
+    "Chocolate": [
+        "Doce",
+        "Chocolate de 200g",
+        500,
+        3.5,
+        false
+    ]
+}
